@@ -15,3 +15,45 @@ Depiction: http://gaitherstephens.com/assets/pages/cydia/index.html
 Icon: /Applications/Example.app/AppIcon60x60@2x.png
 Name: exploreLife
 
+Package: com.spqrguymontag.groovalicious
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/Groovalicious.deb
+Size: 857966
+MD5sum: 46d8ff7fbccbd603ae9ac4ecfcb0f6cc
+SHA1: 7ede9223533b3975f8b46a3045ea74510cc1c111
+SHA256: feedecf4d6778b9eb47e374f32b1c18ed3d775f22e3e389f03238144fbf56cc0
+Section: iWidgets (Springboard)
+Homepage: http://www.gaitherstephens.com
+Description: A truly unique iWidget.
+Author: Gaither Stephens (SPQRGuyMontag) <gaitherstephens@hotmail.com>
+Name: Groovalicious
+
+Package: com.spqrguymontag.janus
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/Janus.deb
+Size: 4277160
+MD5sum: b9b0e7b49848a15a86d4aa2bc7adad94
+SHA1: d378354ffd4239dfa20debd63dcc17f63bb76925
+SHA256: 25768f6b421111508d151fb1e98c83ba723f04133c95eb11a5e64794b761f596
+Section: iWidgets (Springboard)
+Homepage: http://www.gaitherstephens.com
+Description: Dual weather/music widget.
+Author: Gaither Stephens (SPQRGuyMontag) <gaitherstephens@hotmail.com>
+Name: Janus
+
+Package: com.spqrguymontag.novellas
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/Novellas.deb
+Size: 34717588
+MD5sum: a1784986e0c8a0e6af6826a96820eede
+SHA1: 94dca7588227c8299cec90e87ba9e646dd2d5e74
+SHA256: f180526a9b6a242ead6a8950ba2e28d5ccb785a6927a6c7259758688a1902075
+Section: iWidgets (Springboard)
+Homepage: http://www.gaitherstephens.com
+Description: A Metro UI widget for iOS.
+Author: Gaither Stephens (SPQRGuyMontag) <gaitherstephens@hotmail.com>
+Name: Novellas
+
