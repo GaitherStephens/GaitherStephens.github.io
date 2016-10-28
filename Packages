@@ -19,10 +19,10 @@ Package: com.spqrguymontag.groovalicious
 Version: 1.0
 Architecture: iphoneos-arm
 Filename: ./debs/Groovalicious.deb
-Size: 857966
-MD5sum: 46d8ff7fbccbd603ae9ac4ecfcb0f6cc
-SHA1: 7ede9223533b3975f8b46a3045ea74510cc1c111
-SHA256: feedecf4d6778b9eb47e374f32b1c18ed3d775f22e3e389f03238144fbf56cc0
+Size: 857788
+MD5sum: b58ca6326b4b12cf2c20dbb3416ef568
+SHA1: caa030a84701b041610506d7674b38750c62a989
+SHA256: 91862f4f812c19db366eba728a766c1b1b5196d67fb0cfb86e977eff7c2f10d6
 Section: iWidgets (Springboard)
 Homepage: http://www.gaitherstephens.com
 Description: A truly unique iWidget.
@@ -33,10 +33,10 @@ Package: com.spqrguymontag.janus
 Version: 1.0
 Architecture: iphoneos-arm
 Filename: ./debs/Janus.deb
-Size: 4277160
-MD5sum: b9b0e7b49848a15a86d4aa2bc7adad94
-SHA1: d378354ffd4239dfa20debd63dcc17f63bb76925
-SHA256: 25768f6b421111508d151fb1e98c83ba723f04133c95eb11a5e64794b761f596
+Size: 4283646
+MD5sum: 04eaf2497d8eabf66f2222ff6f424bfa
+SHA1: b59b38b6aad94283bcb39355322752908a6ab068
+SHA256: 2f8c08e4abb1f1cee7144c25dfd4204882cec5e8f3e2d8f502dca4b0ae3d75c9
 Section: iWidgets (Springboard)
 Homepage: http://www.gaitherstephens.com
 Description: Dual weather/music widget.
@@ -47,10 +47,10 @@ Package: com.spqrguymontag.novellas
 Version: 1.0
 Architecture: iphoneos-arm
 Filename: ./debs/Novellas.deb
-Size: 34717588
-MD5sum: a1784986e0c8a0e6af6826a96820eede
-SHA1: 94dca7588227c8299cec90e87ba9e646dd2d5e74
-SHA256: f180526a9b6a242ead6a8950ba2e28d5ccb785a6927a6c7259758688a1902075
+Size: 34875462
+MD5sum: 5d355a8ab39d9883bc0b6abed5a44058
+SHA1: bb05b8e9e2043239c570f302a4990704cd2dca0e
+SHA256: 141bbe28e767df72da024c931e85e22ee986af6470b1a9c6ea25ad57976bc5ef
 Section: iWidgets (Springboard)
 Homepage: http://www.gaitherstephens.com
 Description: A Metro UI widget for iOS.
